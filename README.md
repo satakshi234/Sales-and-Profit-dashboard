@@ -17,7 +17,8 @@ The Sales and Profit Dashboard is an interactive analytics tool designed to visu
 
 ## Dashboard Preview
 
-![DashboardView](DashboardView.png)](sales-profit.png)
+[![Dashboard View](DashboardView.png)](sales-profit.png)
+
 
 
 ## Skills Demonstrated
