@@ -25,6 +25,5 @@ Hover over charts for detailed metrics.
 
 Export or share insights with your team as needed.
 
-Dashboard Link
+Dashboard Lin (Sales and profile.png)
 
-View Sales and Profit Dashboard
